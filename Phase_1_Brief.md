@@ -23,7 +23,7 @@
 
 You will need to produce a **markdown** documentation in the form of a report that details the requirements phase of the project.
 
-- ensure that once the project is cloned to your local machine that you checkout to `'phase/1'` and branch off of this to your own branch using the following standard.. `'phase/1/gitusername'`. As part of your workflow, you will merge back into `'phase/1'` **ONLY**. 
+- ensure that once the project is cloned to your local machine that you checkout to `'phase/1'` and branch off of this to your own branch using the following standard... `'phase/1-gitusername'`. As part of your workflow, you will merge back into `'phase/1'` **ONLY**. 
 
 - **Do not** merge to `main`.
 
