@@ -1,8 +1,8 @@
 # Phase 2 - System Modelling and Design Phase Brief
 
-**Submission Deadline: 19th January 2022**
+**Submission Deadline: 23rd January 2022**
 
-**Submission Guidance**: You will submit to [turnitin](https://moodlecurrent.gre.ac.uk/mod/assign/view.php?id=2113906) the **hash** of commit you wish to be used for phase 2, ensure that this is the hash on the `phase/2` branch.
+**Submission Guidance**: You will submit to [turnitin](https://moodlecurrent.gre.ac.uk/mod/assign/view.php?id=2414632) the **hash** of commit you wish to be used for phase 2, ensure that this is the hash on the `phase/2` branch.
 
 ------
 
