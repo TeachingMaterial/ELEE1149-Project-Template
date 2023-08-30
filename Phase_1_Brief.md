@@ -1,8 +1,8 @@
 # Phase 1 - Requirements Engineering Brief
 
-**Submission Deadline: 8th December 2022**
+**Submission Deadline: 11th December 2023 @ 2000**
 
-**Submission Guidance**: You will submit to [turnitin](https://moodlecurrent.gre.ac.uk/mod/assign/view.php?id=2113703) the **hash** of commit you wish to be used for phase 1, ensure that this is the hash on the `phase/1` branch.
+**Submission Guidance**: You will submit to [turnitin](https://moodlecurrent.gre.ac.uk/mod/assign/view.php?id=2414631) the **hash** of commit you wish to be used for phase 1, ensure that this is the hash on the `phase/1` branch.
 
 
 ------
@@ -55,4 +55,4 @@ The marks are distributed as follows:
 - Risks & Risk Planning				    20%
 - Gantt chart					        10%
 - Git Workflow        				    10%
-- Report structure and presentation 	10% 
+- README	10% 
