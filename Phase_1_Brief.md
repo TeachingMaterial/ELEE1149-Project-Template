@@ -1,6 +1,6 @@
 # Phase 1 - Requirements Engineering Brief
 
-**Submission Deadline: 11th December 2023 @ 2000**
+**Submission Deadline: 12th December 2023 @ 2000**
 
 **Submission Guidance**: You will submit to [turnitin](https://moodlecurrent.gre.ac.uk/mod/assign/view.php?id=2414631) the **hash** of commit you wish to be used for phase 1, ensure that this is the hash on the `phase/1` branch.
 
