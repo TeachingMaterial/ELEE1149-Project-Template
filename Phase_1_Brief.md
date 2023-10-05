@@ -4,7 +4,6 @@
 
 **Submission Guidance**: You will submit to [turnitin](https://moodlecurrent.gre.ac.uk/mod/assign/view.php?id=2414631) the **hash** of commit you wish to be used for phase 1, ensure that this is the hash on the `phase/1` branch.
 
-
 ------
 
 ## Useful links
@@ -39,9 +38,12 @@ The requirements phase `README.md` should include the following information:
 - **System requirements specification** should describe the functional and non-functional requirements in detail.
 - **Possible risks and risk planning**
 - **References and Acknowledgements** – should contain the references you have used following the Harvard referencing system (http://www.citethisforme.com/harvard-referencing) and some acknowledgments thanking people / organisations who might have helped you preparing the report.
-
-- **A Gantt chart of the project plan** – using [Mermaid Gantt Chart Template](https://mermaid.live/edit#pako:eNpdUD1rwzAQ_SvHzTZYbiZtAdNOntKloOWwrqlILRXlPISQ_55TpRDaQ6DT--Chd8UleUaLR4oiLoKOBPlm2MNbgWAKdMy0VsqT8GvKKwnAh04_z_00Ve7Mi4QU4VDvCu5B6HyC51gyHYyD2fWD0dPBy-CbNCb54vw0WPoUfZMBKBb_N6bJK_hePCEWssU8IsxY3GZsbvofAhbGnccOV9ZvBa9VXIvUoepWdmh19ZRPDl28qY42SYdLXNBK3rjD7aeU0lp6gOyDpDzXan8bvt0BQFBqnQ) at the end of the README.md file under a section called Appendix to be included in the Appendix. 
-> **Note:** When preparing the Gantt chart, bear in mind the following deadlines specified below.  Your Gantt chart at this stage should be a first version of the Gantt chart for your project, providing details for the project phase 1 only and just specifying phase 2 and 3 by titles but not providing any more details at that stage. You will be submitting updated Gantt charts including the details about phases 2 and 3 at a later stage in the project development.
+- **A Gantt chart of the project plan** – using [Mermaid Gantt Chart Template](https://mermaid.live/edit#pako:eNpdUD1rwzAQ_SvHzTZYbiZtAdNOntKloOWwrqlILRXlPISQ_55TpRDaQ6DT--Chd8UleUaLR4oiLoKOBPlm2MNbgWAKdMy0VsqT8GvKKwnAh04_z_00Ve7Mi4QU4VDvCu5B6HyC51gyHYyD2fWD0dPBy-CbNCb54vw0WPoUfZMBKBb_N6bJK_hePCEWssU8IsxY3GZsbvofAhbGnccOV9ZvBa9VXIvUoepWdmh19ZRPDl28qY42SYdLXNBK3rjD7aeU0lp6gOyDpDzXan8bvt0BQFBqnQ) at the end of the README.md file under a section called Appendix to be included in the Appendix.
+- **Kanban** - In this section you wil add a link to the Kanban
+ 
+> **Notes:** 
+>> - **Gantt Chart** - When preparing the Gantt chart, bear in mind the following deadlines specified below.  Your Gantt chart at this stage should be a first version of the Gantt chart for your project, providing details for the project phase 1 only and just specifying phase 2 and 3 by titles but not providing any more details at that stage. You will be submitting updated Gantt charts including the details about phases 2 and 3 at a later stage in the project development.
+>> - **Kanban** use the Github Project feature to create a Kanban for this software engineering project. Ensure you fill out all cards completely with assignees, tags, descriptions and due dates.
 
 -------------
 ## Marking Scheme
@@ -53,6 +55,6 @@ The marks are distributed as follows:
 - Software Process Model & Reasons		10%
 - Requirements					        40%
 - Risks & Risk Planning				    20%
-- Gantt chart					        10%
+- Gantt chart & Kanban  		        10%
 - Git Workflow        				    10%
 - README	10% 
