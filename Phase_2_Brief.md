@@ -80,3 +80,107 @@ The marks are distributed as follows:
 - State chart diagrams                      12.5%
 - Git Workflow        				        15%
 - Report structure and presentation 	    10% 
+
+## Full Rubric
+
+<div align=center>
+
+**Overall Architecture of the System (12.5%)**
+
+| Criteria                 |   Description        | 
+|-------------------------------------------------|-------------------------------------------------------------|
+| **Exceptional (10-12.5)** | Comprehensive and well-thought-out system architecture.     |
+| **Proficient (7.5-10)**   | Sound system architecture with some minor gaps.             |
+| **Competent (5-7.5)**     | Adequate system architecture but with noticeable gaps.     |
+| **Limited (2.5-5)**       | Incomplete or unclear system architecture.               |
+| **Insufficient (0-2.5)**  | No discernible system architecture or significant flaws. |
+
+-------------
+
+**UML Use Case Diagrams and Tables (12.5%)**
+
+| Criteria                 |      Description               | 
+|-------------------------------------------------|------------------------------------------------------------|
+| **Exceptional (10-12.5)** | Clear, comprehensive use case diagrams and tables.          |
+| **Proficient (7.5-10)**   | Well-constructed use case diagrams and tables.              |
+| **Competent (5-7.5)**     | Acceptable use case diagrams and tables with notable omissions. |
+| **Limited (2.5-5)**       | Incomplete or unclear use case diagrams and tables.        |
+| **Insufficient (0-2.5)**  | Missing or severely flawed use case diagrams and tables.   |
+
+
+------------------
+
+**Sequence Diagrams (12.5%)**
+
+| Criteria                 | Description | 
+|-------------------------------------------------|------------------------------------------------------------|
+| **Exceptional (10-12.5)** | Well-crafted sequence diagrams depicting accurate system interactions. |
+| **Proficient (7.5-10)**   | Competent sequence diagrams with minor improvements possible. |
+| **Competent (5-7.5)**     | Acceptable sequence diagrams with noticeable gaps.       |
+| **Limited (2.5-5)**       | Incomplete or unclear sequence diagrams.                 |
+| **Insufficient (0-2.5)**  | Missing or severely flawed sequence diagrams.           |
+
+
+---------------------
+
+**Class Diagrams (12.5%)**
+
+| Criteria                 | Description               | 
+|-------------------------------------------------|-------------------------------------------------------------|
+| **Exceptional (10-12.5)** | Detailed and accurate class diagrams.                      |
+| **Proficient (7.5-10)**   | Well-constructed class diagrams with minor improvements possible. |
+| **Competent (5-7.5)**     | Acceptable class diagrams with noticeable gaps.         |
+| **Limited (2.5-5)**       | Incomplete or unclear class diagrams.                    |
+| **Insufficient (0-2.5)**  | Missing or severely flawed class diagrams.               |
+
+
+
+**Activity Diagram (12.5%)**
+
+| Criteria                 | Description            | 
+|-------------------------------------------------|------------------------------------------------------------|
+| **Exceptional (10-12.5)** | Clear and well-constructed activity diagrams.              |
+| **Proficient (7.5-10)**   | Competent activity diagrams with minor improvements possible. |
+| **Competent (5-7.5)**     | Acceptable activity diagrams with noticeable gaps.      |
+| **Limited (2.5-5)**       | Incomplete or unclear activity diagrams.                 |
+| **Insufficient (0-2.5)**  | Missing or severely flawed activity diagrams.            |
+
+--------------------
+
+**State Chart Diagrams (12.5%)**
+
+| Criteria                 | Description        | 
+|-------------------------------------------------|------------------------------------------------------------|
+| **Exceptional (10-12.5)** | Comprehensive and accurate state chart diagrams.           |
+| **Proficient (7.5-10)**   | Well-constructed state chart diagrams with minor improvements possible. |
+| **Competent (5-7.5)**     | Acceptable state chart diagrams with noticeable gaps.      |
+| **Limited (2.5-5)**       | Incomplete or unclear state chart diagrams.                 |
+| **Insufficient (0-2.5)**  | Missing or severely flawed state chart diagrams.            |
+
+
+
+-------------
+
+**Git Workflow(15%)**
+
+| Criteria                 | Description     |
+|-------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| **Exceptional (12.5-15)** | Proficient use of Git, demonstrating a clear understanding of branching, merging, and collaboration.         |
+| **Proficient (10.5-12.4)** | Competent use of Git with minor improvements possible.         |
+| **Competent (6.5-10.4)**   | Acceptable use of Git with noticeable gaps or errors.          |
+| **Limited (2.5-6.4)**      | Incomplete or unclear use of Git.      |
+| **Insufficient (0-2.4)**   | Missing or severely flawed use of Git. |
+
+----------------
+
+**README.md Structutre and Presentation (10%)**
+
+| Criteria                 | Description |
+|-------------------------------------------------|------------------------------------------------------------|
+| **Exceptional (8.5-10)**  | Well-organized and coherent report structure.              |
+| **Proficient (6.5-8.4)**  | Well-structured report with minor improvements possible.  |
+| **Competent (5-6.4)**     | Acceptable report structure with noticeable gaps.          |
+| **Limited (2.5-4.9)**     | Incomplete or unclear report structure.                    |
+| **Insufficient (0-2.4)**  | Missing or severely flawed report structure.               |
+
+</div>
